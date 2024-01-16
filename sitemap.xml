@@ -10,14 +10,14 @@
 
   <!-- Example: Services Page -->
   <url>
-    <loc>https://rksh-solution.netlify.app/services</loc>
+    <loc>https://rksh-solution.netlify.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Example: CRM Development Page -->
   <url>
-    <loc>https://rksh-solution.netlify.app/services/crm-development</loc>
+    <loc>https://rksh-solution.netlify.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
